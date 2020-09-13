@@ -133,7 +133,6 @@
                     <testFailureIgnore>false</testFailureIgnore>
                     <argLine>
                         -javaagent:${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar
-<!--                        -javaagent:"/Users/burhanerdem/.m2/repository/org/aspectj/aspectjweaver/1.8.10/aspectjweaver-1.8.10.jar"-->
                     </argLine>
                     <properties>
                         <property>
